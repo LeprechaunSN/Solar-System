@@ -1,0 +1,13 @@
+body {
+    background: url(./img/sky.jpg);
+    position: relative;
+}
+
+.planet {
+    position: absolute;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
